@@ -32,7 +32,7 @@ To set up and use this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/sound-analysis.git
+   git clone https://github.com/VirendraChavda/Acoustic-Classification.git
    cd sound-analysis
    ```
 2. Launch the Jupyter Notebook:
